@@ -18,13 +18,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: williamfmclane531@yahoo.com # Full email address, e.g. "sam@example.com"
+  email_address: williamfmclane531@yahoo.com 
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: williammclane # github profile name, e.g. "madebymunsters"
+  github: williammclane 
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-101490652-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
